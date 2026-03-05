@@ -4,4 +4,4 @@
 
 #### A deferred renderer in TouchDesigner, heavily stylized. 
 
-dox might happen in the future
+* check out the example file first
